@@ -19,3 +19,7 @@ sudo apt install libqt4-designer libqt4-opengl libqt4-svg libqtgui4 libqtwebkit4
 ```
 - Download packet tracer from [Cisco Packet Tracer official site](https://www.netacad.com/portal/resources/packet-tracer)
 - Use command `sudo dpkg -i `
+
+## Introduction
+- For each intermediate devices (routers, switches) two types of configurations are there. CLI and GUI based
+- Some of the end devices (PC and laptops) provide desktop interface that gives access to IP configuration, wireless configuration, command prompt etc. 
